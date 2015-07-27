@@ -1,12 +1,10 @@
 # zhihu-py3 : 知乎解析器 with Python3
 
-[![Documentation Status][doc-badge-img]][doc-badge-url]
+[![Documentation Status][dev-doc-badge-img]][dev-doc-badge-url]
 
-最近一次更新内容：
+目前Dev分支正并没有在Coding新功能。
 
-添加`Author.photo_url`接口，用于获取用户头像。
-
-具体请看[ChangeLog][changelog-url]
+具体请看[ChangeLog][dev-changelog-url]
 
 **有问题请开Issue，几个小时后无回应可加最后面的QQ群询问。**
 
@@ -322,7 +320,7 @@ for root, dirs, files in os.walk('vczh'):
 
 终于搞定了文档这个磨人的小妖精，可惜 Sphinx 还是不会用 T^T 先随意弄成这样吧：
 
-Read The Docs： [点击这里查看文档][doc-rtd-url]
+Read The Docs： [点击这里查看文档][dev-doc-rtd-url]
 
 ## TODO List
 
